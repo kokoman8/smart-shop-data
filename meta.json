@@ -1,26 +1,16 @@
 {
   "schema": 2,
-  "updatedAt": "2026-11-23T04:07:05.767Z",
-  "catalogVersion": 115,
+  "updatedAt": "2026-11-24T03:18:53.548Z",
+  "catalogVersion": 116,
   "full": {
     "file": "snapshot-full.json.gz",
-    "version": 115,
-    "hash": "d6462c4af63e383b",
-    "count": 18812,
-    "gzBytes": 2893688,
-    "generatedAt": "2026-11-23T04:07:01.974Z"
+    "version": 116,
+    "hash": "2020889f346c1fe6",
+    "count": 18854,
+    "gzBytes": 2900861,
+    "generatedAt": "2026-11-24T03:18:49.965Z"
   },
   "deltas": [
-    {
-      "version": 102,
-      "file": "delta-102.json.gz",
-      "hash": "68f34852f518680f",
-      "count": 20,
-      "removed": 0,
-      "historyPoints": 16,
-      "gzBytes": 579318,
-      "generatedAt": "2026-11-16T04:12:08.877Z"
-    },
     {
       "version": 103,
       "file": "delta-103.json.gz",
@@ -150,14 +140,24 @@
       "historyPoints": 13,
       "gzBytes": 603460,
       "generatedAt": "2026-11-23T04:07:01.974Z"
+    },
+    {
+      "version": 116,
+      "file": "delta-116.json.gz",
+      "hash": "8a93c6a939ca1bb5",
+      "count": 3500,
+      "removed": 0,
+      "historyPoints": 3422,
+      "gzBytes": 1018923,
+      "generatedAt": "2026-11-24T03:18:49.965Z"
     }
   ],
   "history": {
     "file": "history-full.json.gz",
-    "version": 115,
-    "hash": "1720686f262f07de",
-    "points": 70306,
-    "gzBytes": 551703,
-    "generatedAt": "2026-11-23T04:07:01.974Z"
+    "version": 116,
+    "hash": "fac8d08b3d4b4f99",
+    "points": 73728,
+    "gzBytes": 577705,
+    "generatedAt": "2026-11-24T03:18:49.965Z"
   }
 }
